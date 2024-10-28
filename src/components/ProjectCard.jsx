@@ -4,7 +4,7 @@ import React from 'react';
 
 const ProjectCard = ({ image, name, description, demolink }) => {
   return (
-    <div id='projects' className="flex flex-col md:flex-row justify-center text-center md:text-left items-center gap-12 p-6 md:p-24 m-6 md:m-28 rounded-3xl shadow-sm shadow-slate-700">
+    <div id='projects' className="flex flex-col md:flex-row justify-center text-center md:text-left items-center gap-12 p-6  m-6 md:m-28 rounded-3xl shadow-sm shadow-slate-700">
       <div className="w-[80%] md:w-[60%]">
         <img 
           src={image} 
