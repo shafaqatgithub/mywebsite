@@ -7,7 +7,7 @@ import reactjs from "../components/assets/react.png"
 
 const Skills = () => {
   return (
-    <div className='md:h-[150px] max-w-[1200px] mx-auto grid grid-cols-3 md:flex md:flex-row md:justify-between md:items-center p-10 content-center'>
+    <div className='md:h-[150px] max-w-[1200px] -mt-[40] mx-auto grid grid-cols-3 md:flex md:flex-row md:justify-between md:items-center p-10 content-center'>
 
         <h2 className='text-2xl md:text-4xl font-bold m-10' >My <br/> Tech <br/> Stack</h2>
 

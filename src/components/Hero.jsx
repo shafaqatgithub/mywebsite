@@ -27,7 +27,7 @@ const Hero = () => {
         </div>
       </div>
 
-      <div className='absolute bottom-24 right-10 flex flex-col items-center gap-2 md:bottom-40 md:right-20 md:gap-6'>
+      <div className=' flex flex-row justify-center items-baseline  gap-8  md:bottom-40 md:right-20 md:gap-6 mt-10'>
         <a href='https://www.linkedin.com/in/shafaqat-arif/' target='_blank' rel='noopener noreferrer' className='text-gray-800 hover:text-blue-600'>
           <FaLinkedin size={20} color='orange'/>
         </a>

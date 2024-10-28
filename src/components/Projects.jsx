@@ -38,7 +38,7 @@ const Projects = () => {
   return (
     <div>
       <div className='flex flex-row items-center justify-center mb-6' id='projects'>
-        <h2 className='font-bold text-4xl text-transparent bg-clip-text bg-gradient-to-r from-orange-400 to-pink-600'>My Projects</h2>
+        <h2 className='font-bold text-2xl md:text-4xl text-transparent bg-clip-text bg-gradient-to-r from-orange-400 to-pink-600'>My Projects</h2>
         <div className='h-1 w-32 border border-orange-600 ml-6 bg-orange-600'></div>
       </div>
       {projectData.map((project, id) => (

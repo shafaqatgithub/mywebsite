@@ -24,7 +24,7 @@ const Contact = () => {
 
     <div className='max-w-4xl mx-auto sm-py-20 p-5 pt-24' id='contact'>
       <div className='flex flex-row items-center justify-center mb-6'>
-        <h2 className='font-bold text-4xl text-transparent bg-clip-text bg-gradient-to-r from-orange-400 to-pink-600' id="contact">Contact Me</h2>
+        <h2 className='font-bold text-2xl md:text-4xl text-transparent bg-clip-text bg-gradient-to-r from-orange-400 to-pink-600' id="contact">Contact Me</h2>
         <div className='h-1 w-32 border border-orange-600 ml-6 bg-orange-600'></div>
       </div>
 
