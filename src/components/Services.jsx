@@ -23,8 +23,8 @@ const Services = () => {
   return (
     <section className='py-14 m-4  ' id="services">
       <div className='max-w-7xl mx-auto text-center'>
-      <div className='flex flex-row items-center justify-center ' id='projects'>
-        <h2 className='font-bold text-2xl md:text-4xl text-transparent bg-clip-text bg-gradient-to-r from-orange-400 to-pink-600 '>Services</h2>
+      <div className='flex flex-row items-center justify-center pb-10 ' id='projects'>
+        <h2 className='font-bold text-2xl md:text-4xl text-transparent bg-clip-text bg-gradient-to-r from-orange-400 to-pink-600  '>Services</h2>
         <div className='h-1 w-32 border border-orange-600 ml-6 bg-orange-600'></div>
       </div>
         <div className='grid m-8 grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 px-4 -py-[30px]'>
